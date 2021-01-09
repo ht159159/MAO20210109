@@ -1,0 +1,31 @@
+﻿{
+    "Data": [
+        {
+            "Id": 1,
+            "isEnable": 1,
+            "chatType": "QQ",
+            "chatNo": "1953635018",
+            "nickName": "MG小愛",
+            "Headimg": "https://m-btbh.linsio.cn/resources/gameImages/QQHeadimg-1.png",
+            "urlCode": "mqqwpa://im/chat?chat_type=wpa&uin=1953635018&version=1&src_type=web"
+        },
+        {
+            "Id": 2,
+            "isEnable": 1,
+            "chatType": "QQ",
+            "chatNo": "2518497154",
+            "nickName": "MG朵麗兒",
+            "Headimg": "https://m-btbh.linsio.cn/resources/gameImages/QQHeadimg-2.png",
+            "urlCode": "mqqwpa://im/chat?chat_type=wpa&uin=2518497154&version=1&src_type=web"
+        },
+        {
+            "Id": 3,
+            "isEnable": 1,
+            "chatType": "QQ",
+            "chatNo": "2576281147",
+            "nickName": "MG小菲",
+            "Headimg": "https://m-btbh.linsio.cn/resources/gameImages/QQHeadimg-3.png",
+            "urlCode": "mqqwpa://im/chat?chat_type=wpa&uin=2576281147&version=1&src_type=web"
+        }
+    ]
+}
